@@ -1,10 +1,13 @@
 // add solution here
 
-var musicians=[];
-var instruments=[];
+var beatles=[];
+
 
 function theBeatlesPlay(musicians,instruments ){
   var counter=0;
-  for (counter=0, counter ++
+  for (counter=0;counter++;counter<(musicians.length)){
+ concat (musicians[o]
+    
+  }
   
 }
